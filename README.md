@@ -1,8 +1,6 @@
 ### Hi there 👋
 ##Perfil de MIA-Ferreira
 
-<!--
-**MIA-Ferreira/MIA-Ferreira** é um repositório ✨ _special_ ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
 <div>
   <a href="https://github.com/MIA-Ferreira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MIA-Ferreira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
